@@ -1,6 +1,6 @@
 # 輕鬆學會 Google TensorFlow 2.0 人工智慧深度學習實作開發 
 
-![封面](Cover.jpg)
+<img src="./Cover.jpg" width="50%" height="50%"/>
 
 ## 作者
 黃士嘉
