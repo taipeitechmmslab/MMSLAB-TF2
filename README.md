@@ -2,6 +2,19 @@
 
 <img src="./Cover.jpg" width="50%" height="50%"/>
 
+##  安裝
+
+- Requirements
+    - Jupyter NoteBook
+    - TensorFlow == 2.0.0-beta1
+    - TensorFlow Datasets
+    - Tensorflow Hub
+    - Tensorflow Addons
+    - Numpy
+    - Pandas
+    - Matplotlib
+    - OpenCV
+
 ## 作者
 黃士嘉
 
