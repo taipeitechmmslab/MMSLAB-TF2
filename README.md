@@ -2,11 +2,12 @@
 
 <img src="./Cover.jpg" width="50%" height="50%"/>
 
+# TensorFlow 2.0.0-rc0
 ##  安裝
 
 - Requirements
     - Jupyter NoteBook
-    - TensorFlow == 2.0.0-beta1
+    - TensorFlow == 2.0.0-rc0
     - TensorFlow Datasets
     - Tensorflow Hub
     - Tensorflow Addons
