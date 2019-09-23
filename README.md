@@ -1,6 +1,6 @@
 # 輕鬆學會 Google TensorFlow 2.0 人工智慧深度學習實作開發 
 
-<img src="./Cover.jpg" width="50%" height="50%"/>
+<img src="https://raw.githubusercontent.com/taipeitechmmslab/MMSLAB-TF2/master/Cover.jpg" width="50%" height="50%"/>
 
 # TensorFlow 2.0.0-rc0
 ##  安裝
