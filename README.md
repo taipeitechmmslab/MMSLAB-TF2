@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/taipeitechmmslab/MMSLAB-TF2/master/Cover.jpg" width="50%" height="50%"/>
 
-# TensorFlow 2.0.0-rc0
+# TensorFlow 2.0.0
 ##  安裝
 
 - Requirements
     - Jupyter NoteBook
-    - TensorFlow == 2.0.0-rc0
+    - TensorFlow == 2.0.0
     - TensorFlow Datasets
     - Tensorflow Hub
     - Tensorflow Addons
