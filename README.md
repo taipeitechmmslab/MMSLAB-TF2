@@ -8,9 +8,9 @@
 - Requirements
     - Jupyter NoteBook
     - TensorFlow == 2.0.0-rc0
-    - TensorFlow Datasets
-    - Tensorflow Hub
-    - Tensorflow Addons
+    - TensorFlow Datasets == 1.3.0
+    - Tensorflow Hub == 0.7.0
+    - Tensorflow Addons == 0.6.0
     - Numpy
     - Pandas
     - Matplotlib
