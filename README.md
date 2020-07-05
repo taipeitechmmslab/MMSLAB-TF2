@@ -7,10 +7,10 @@
 
 - Requirements
     - Jupyter NoteBook
-    - TensorFlow == 2.0.0
-    - TensorFlow Datasets
-    - Tensorflow Hub
-    - Tensorflow Addons
+    - TensorFlow == 2.2.0
+    - TensorFlow Datasets == 3.1.0
+    - Tensorflow Hub == 0.8.0
+    - Tensorflow Addons == 0.10.0
     - Numpy
     - Pandas
     - Matplotlib
