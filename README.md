@@ -52,6 +52,6 @@
 
 ## 購買連結
 
-- [天瓏書局](https://www.tenlong.com.tw/products/9789864344178)
-- [博客來](https://www.books.com.tw/products/0010832030)
+- [天瓏書局](https://www.tenlong.com.tw/products/9789864344635)
+- [博客來](https://www.books.com.tw/products/0010847790)
 
