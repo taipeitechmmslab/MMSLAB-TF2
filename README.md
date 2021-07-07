@@ -7,14 +7,14 @@
 
 - Requirements
     - Jupyter NoteBook
-    - TensorFlow == 2.2.0
-    - TensorFlow Datasets == 3.1.0
-    - Tensorflow Hub == 0.8.0
-    - Tensorflow Addons == 0.10.0
-    - Numpy
-    - Pandas
-    - Matplotlib
-    - OpenCV
+    - TensorFlow == 2.5.0
+    - TensorFlow Datasets == 4.3.0
+    - Tensorflow Hub == 0.12.0
+    - Tensorflow Addons == 0.13.0
+    - Numpy == 1.19.5
+    - Pandas == 1.3.0
+    - Matplotlib == 3.1.1
+    - OpenCV == 4.5.2.54
 
 ## 作者
 黃士嘉
@@ -46,12 +46,14 @@
 
 林邑撰
 
-　　【學歷】
+　　◎神基科技 AI工程師
 
 　　◎國立臺北科技大學電子工程系碩士
 
+
+
 ## 購買連結
 
-- [天瓏書局](https://www.tenlong.com.tw/products/9789864344635)
-- [博客來](https://www.books.com.tw/products/0010847790)
+- [天瓏書局](https://www.tenlong.com.tw/products/9789864345540?list_name=lv)
+- [博客來](https://www.books.com.tw/products/0010882877?loc=P_0001_001)
 
