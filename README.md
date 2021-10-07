@@ -2,19 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/taipeitechmmslab/MMSLAB-TF2/master/Cover.jpg" width="50%" height="50%"/>
 
-# TensorFlow 2.5.0
+# TensorFlow 2.6.0
 ##  安裝
 
 - Requirements
     - Jupyter NoteBook
-    - TensorFlow == 2.5.0
-    - TensorFlow Datasets == 4.3.0
+    - TensorFlow == 2.6.0
+    - TensorFlow Datasets == 4.4.0
     - Tensorflow Hub == 0.12.0
-    - Tensorflow Addons == 0.13.0
+    - Tensorflow Addons == 0.14.0
     - Numpy == 1.19.5
-    - Pandas == 1.3.0
-    - Matplotlib == 3.1.1
-    - OpenCV == 4.5.2.54
+    - Pandas == 1.3.3
+    - Matplotlib == 3.4.3
+    - OpenCV == 4.5.3.56
 
 ## 作者
 黃士嘉
