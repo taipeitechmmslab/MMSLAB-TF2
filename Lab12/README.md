@@ -2,7 +2,7 @@
 
 這個專案實現了TensorFlow2.0 YOLO-V3物件偵測。
 
-GitHub: https://github.com/taipeitechmmslab/MMSLAB-TF2
+GitHub: https://github.com/KUASWoodyLIN/TF2-Yolo3
 
 ## Usage
 

@@ -1,5 +1,5 @@
 # TF2-VAE
-GitHub: https://github.com/KUASWoodyLIN/TF2-VAEs
+GitHub: https://github.com/KUASWoodyLIN/TF2-VAE
 
 ## Usage
 
